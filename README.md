@@ -1,9 +1,5 @@
 # PharmHGT
 
-## What's New:
-***03/30/2023***
-* The repo of this project will be changed to [MindrankAI PharmHGT](https://github.com/mindrank-ai/PharmHGT).
-
 ## Introduction
 * Source code for the paper "Pharmacophoric-constrained Heterogeneous Graph Transformer".
 
